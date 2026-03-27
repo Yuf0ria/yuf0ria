@@ -1,10 +1,16 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Suri
+This is my preffered online name, but you can also call me dani.\
+\
+I am a very competitive & passionate graduating student at **CIIT: College of Arts and Technology**, and have learned programming specializing in **game development for 4 years**. I'm driven to pursue in this field as a **Game Programmer** as I explore technology, science and grow within the community.
 
-Wait this is a test
+## CV Link
 
+## Projects
 
-[![Yuf0ria's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Yuf0ria](https://github-readme-stats-yuf0ria37-v4xgfpgh.leapcell.dev/?username=Yuf0ria&repo=github-readme-stats))](https://github.com/Yuf0ria/github-readme-stats)
-
+### Project Name
+- Description:
+- [![Tech Stack: ](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- GitHub Link:
 <!--
 
 ## 🚀 About Me

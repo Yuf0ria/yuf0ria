@@ -30,6 +30,10 @@ A wave-based single player, where you're the intern protecting your coworkers fr
 #### Links
 > [Github](https://github.com/Yuf0ria/Vartiants_of_Ares.git) \
 > [Prototype](https://serielace.itch.io/variants-of-ares)
+
+## Skills
+[![Tech Stack: ](https://skillicons.dev/icons?i=unity,visualstudio,cs,cpp,github,git,css,eclipse,express,gradle,html,kotlin,nodejs,photoshop)](https://skillicons.dev)
+> From Left to Right: Unity, Visual Studiom, C#, C++, GitHub, Git, CSS, Eclipse, Express, Gradle, HTML, Kotlin, Node.js, Photoshop
 <!--
 
 ## 🚀 About Me

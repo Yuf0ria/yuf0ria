@@ -1,6 +1,7 @@
 # Hi, I'm <YOUR NAME>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Wait this is a test
+
 
 [![Yuf0ria's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Yuf0ria](https://github-readme-stats-yuf0ria37-v4xgfpgh.leapcell.dev/?username=Yuf0ria&repo=github-readme-stats))](https://github.com/Yuf0ria/github-readme-stats)
 

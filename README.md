@@ -20,7 +20,8 @@ A wave-based single player, where you're the intern protecting your coworkers fr
 > [Prototype](https://serielace.itch.io/never-ending-sabotage)
 
 ### Variants of Ares
-<img width="1919" height="1079" alt="XVaH+h" src="https://github.com/user-attachments/assets/5e3907e0-d068-4471-821f-c416f96f426a" />
+<img width="900" height="611" alt="Screenshot_20260327_203827" src="https://github.com/user-attachments/assets/76278a6a-e254-4ac7-b974-b4f316d60af2" />
+
 
 \
 2D-Platformer-Puzzle Game, the focus was to design a game that others can play within the room.

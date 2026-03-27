@@ -5,12 +5,30 @@ I am a very competitive & passionate graduating student at **CIIT: College of Ar
 
 ## CV Link
 
+
 ## Projects
 
 ### Never Ending Sabotage
-- Description:
-- [![Tech Stack: ](https://skillicons.dev/icons?i=unity,C#)](https://skillicons.dev)
-- GitHub Link:
+<img width="1919" height="1079" alt="XVaH+h" src="https://github.com/user-attachments/assets/fe7bf58b-7e34-4605-8e28-ec419232a4c7" />
+
+\
+A wave-based single player, where you're the intern protecting your coworkers from various illustrated misfortunes.
+#### Tech Stack
+[![Tech Stack: ](https://skillicons.dev/icons?i=unity,visualstudio,cs,github)](https://skillicons.dev)
+#### Links
+> [Github](https://github.com/Yuf0ria/Never_Ending_Sabotage.git) \
+> [Prototype](https://serielace.itch.io/never-ending-sabotage)
+
+### Variants of Ares
+<img width="1919" height="1079" alt="XVaH+h" src="https://github.com/user-attachments/assets/5e3907e0-d068-4471-821f-c416f96f426a" />
+
+\
+2D-Platformer-Puzzle Game, the focus was to design a game that others can play within the room.
+#### Tech Stack
+[![Tech Stack: ](https://skillicons.dev/icons?i=unity,visualstudio,cs,github,git,photoshop)](https://skillicons.dev)
+#### Links
+> [Github](https://github.com/Yuf0ria/Vartiants_of_Ares.git) \
+> [Prototype](https://serielace.itch.io/variants-of-ares)
 <!--
 
 ## 🚀 About Me

@@ -1,11 +1,4 @@
-# Hi, I'm Suri
-This is my preffered online name, but you can also call me dani.\
-\
-I am a very competitive & passionate graduating student at **CIIT: College of Arts and Technology**, and have learned programs specializing in **game development for 4 years**. I'm driven to pursue in this field as a **Game Programmer** as I explore technology, science and grow within the community.
-
-## CV Link
-> [Download My CV](https://github.com/Yuf0ria/yuf0ria.git)
-
+# Hi, I'm Dain
 ## Projects
 
 ### Never Ending Sabotage

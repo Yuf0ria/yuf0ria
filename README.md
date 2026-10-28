@@ -1,6 +1,8 @@
 # Hi, I'm Dain
 As a recent graduate with a strong foundation in data management, full-stack web development, and systems engineering, I bring a versatile technical skill set to software development. Through my work on small-scale games as a programmer, narrative designer, and level designer, I've developed a collaborative approach to building applications from the ground up.
 
+## [Resume](https://drive.google.com/file/d/1MYOUCc2L6CrgKvKSPvqJJz4VxGT5KJQM/view?usp=sharing)
+
 ## Projects
 
 ### Never Ending Sabotage
